@@ -44,13 +44,13 @@ Following are some of the results. You can look at some more results in the Eval
 ![massan2](results/4.png)
 
 
-![interstellar](results/5.png)
+![alt text](results/4.png)
 
 
-![old_couple](results/6.png)
+![alt text](results/5.png)
 
 
-![dogs](results/7.png)
+![alt text](results/6.png)
 
 
-![men sitting](results/8.png)
+![alt text](results/7.png)
