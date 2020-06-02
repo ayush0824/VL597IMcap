@@ -53,4 +53,7 @@ Following are some of the results. You can look at some more results in the Eval
 ![alt text](results/6.png)
 
 
-![alt text](results/7.png)
+![men sitting](results/7.png)
+
+
+![dogs](results/8.png)
